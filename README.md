@@ -12,5 +12,11 @@ O diagrama possui 1 ator e 4 casos de uso:
 * Editar Tarefa: caso o usuário tenha cometido algum erro de português ou queira editar o texto da tarefa;  
 * Excluir Tarefa: o usuário pode excluir a tarefa; 
 
+## Protótipos
+
+![new mockup 1 copy](https://user-images.githubusercontent.com/36802539/44241041-d4f8aa00-a197-11e8-9f34-999f5b5a4c20.png)
+
+![new mockup 1](https://user-images.githubusercontent.com/36802539/44241042-d4f8aa00-a197-11e8-8f46-9d41c8e01974.png)
+
 
 
