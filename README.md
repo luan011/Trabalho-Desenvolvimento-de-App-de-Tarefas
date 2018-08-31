@@ -16,6 +16,12 @@ O diagrama possui 1 ator e  casos de uso:
 
 ## Protótipos
 
+![new mockup 1 copy](https://user-images.githubusercontent.com/36802539/44886990-2f1d6300-aca0-11e8-9d06-a8285e61162c.png)
+
+![new mockup 1 copy 3](https://user-images.githubusercontent.com/36802539/44886988-2e84cc80-aca0-11e8-8584-7b95cb384936.png)
+
+![new mockup 1 copy 4](https://user-images.githubusercontent.com/36802539/44886989-2e84cc80-aca0-11e8-8934-459245f3cc22.png)
+
 ![new mockup 1 copy](https://user-images.githubusercontent.com/36802539/44241041-d4f8aa00-a197-11e8-9f34-999f5b5a4c20.png)
 
 ![new mockup 1](https://user-images.githubusercontent.com/36802539/44241042-d4f8aa00-a197-11e8-8f46-9d41c8e01974.png)
