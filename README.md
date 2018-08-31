@@ -2,15 +2,17 @@
 
 ## Caso de uso
 
-![usecase diagram0](https://user-images.githubusercontent.com/36802539/44239200-94e0f980-a18e-11e8-8539-30d7ed1e231a.jpg)
+![usecase diagram0](https://user-images.githubusercontent.com/36802539/44886740-b4077d00-ac9e-11e8-9cd5-424f4f0fa8d0.jpg)
 
-O diagrama possui 1 ator e 4 casos de uso:
+O diagrama possui 1 ator e  casos de uso:
 
 * USER: O ator é o Usuário que usa o APP;  
-* Criar Tarefa: o usuário pode criar uma nova tarefa;  
-* Concluir Tarefa: após o usuário concluir a tarefa ele pode marca-la como concluída;  
-* Editar Tarefa: caso o usuário tenha cometido algum erro de português ou queira editar o texto da tarefa;  
-* Excluir Tarefa: o usuário pode excluir a tarefa; 
+* Criar tarefa: o usuário pode criar uma nova tarefa;  
+* Concluir tarefa: após o usuário concluir a tarefa ele pode marca-la como concluída;  
+* Editar tarefa: caso o usuário tenha cometido algum erro de português ou queira editar o texto da tarefa;  
+* Excluir tarefa: o usuário pode excluir a tarefa;
+* Criar conta: o usuário cria uma conta para usar o aplicativo;
+* Recuperar senha: o usuário pode recuperar a conta caso esqueça a senha
 
 ## Protótipos
 
