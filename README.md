@@ -12,7 +12,7 @@ O diagrama possui 1 ator e  casos de uso:
 * Editar tarefa: caso o usuário tenha cometido algum erro de português ou queira editar o texto da tarefa;  
 * Excluir tarefa: o usuário pode excluir a tarefa;
 * Criar conta: o usuário cria uma conta para usar o aplicativo;
-* Recuperar senha: o usuário pode recuperar a conta caso esqueça a senha
+* Recuperar senha: o usuário pode recuperar a conta caso esqueça a senha;
 
 ## Protótipos
 
