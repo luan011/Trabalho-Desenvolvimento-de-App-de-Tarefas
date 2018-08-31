@@ -4,7 +4,7 @@
 
 ![usecase diagram0](https://user-images.githubusercontent.com/36802539/44886740-b4077d00-ac9e-11e8-9cd5-424f4f0fa8d0.jpg)
 
-O diagrama possui 1 ator e  casos de uso:
+O diagrama possui 1 ator e 6 casos de uso:
 
 * USER: O ator é o Usuário que usa o APP;  
 * Criar tarefa: o usuário pode criar uma nova tarefa;  
