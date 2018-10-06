@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS `dstmdatabase`.`user` (
+  `idUser` INT NOT NULL AUTO_INCREMENT,
+  `userName` VARCHAR(255) NOT NULL,
+  `userEmail` VARCHAR(250) NOT NULL,
+  `userPassword` VARCHAR(250) NOT NULL,
+  PRIMARY KEY (`idUser`))
+ENGINE = InnoDB;
