@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.MenuButton?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #0083FC;" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1" fx:controller="hellojdbc.Appgeral">
+    <children>
+      <Text layoutX="182.0" layoutY="76.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Today's Tasks">
+         <font>
+            <Font size="36.0" />
+         </font></Text>
+      <MenuButton layoutX="14.0" layoutY="25.0" mnemonicParsing="false" text="Opções">
+        <items>
+          <MenuItem mnemonicParsing="false" text="Adicionar tarefa" />
+          <MenuItem mnemonicParsing="false" text="Remover tarefa" />
+            <MenuItem mnemonicParsing="false" text="Editar tarefa" />
+            <MenuItem mnemonicParsing="false" text="Concluir tarefa" />
+        </items>
+      </MenuButton>
+      <TextArea layoutX="128.0" layoutY="252.0" prefHeight="100.0" prefWidth="151.0" />
+      <TextArea layoutX="322.0" layoutY="252.0" prefHeight="100.0" prefWidth="151.0" />
+      <TextArea layoutX="322.0" layoutY="127.0" prefHeight="100.0" prefWidth="151.0" />
+      <TextArea layoutX="128.0" layoutY="127.0" prefHeight="100.0" prefWidth="151.0" />
+
+    </children>
+
+</AnchorPane>

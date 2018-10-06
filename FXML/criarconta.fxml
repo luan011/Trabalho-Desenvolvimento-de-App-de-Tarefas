@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #0083FC;" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1" fx:controller="hellojdbc.criarconta">
+    <children>
+        <Button layoutX="228.0" layoutY="297.0" mnemonicParsing="false" onMouseClicked="#voltaLogin" prefHeight="25.0" prefWidth="149.0" text="Criar conta" />
+        <Button layoutX="228.0" layoutY="331.0" mnemonicParsing="false" onMouseClicked="#retornalogin" prefHeight="25.0" prefWidth="149.0" text="Cancelar" />
+      <Text layoutX="192.0" layoutY="89.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Today's Tasks">
+         <font>
+            <Font size="36.0" />
+         </font>
+      </Text>
+      <PasswordField layoutX="226.0" layoutY="188.0" />
+      <PasswordField layoutX="228.0" layoutY="237.0" />
+      <PasswordField layoutX="226.0" layoutY="141.0" />
+      <Text layoutX="226.0" layoutY="137.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Email" />
+      <Text layoutX="226.0" layoutY="179.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Usuário" />
+      <Text layoutX="226.0" layoutY="233.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Senha" />
+
+    </children>
+</AnchorPane>
